@@ -1,6 +1,5 @@
 package top.parak.khdb.server.dm.pagecache;
 
-import javafx.scene.layout.Pane;
 import top.parak.khdb.common.Error;
 import top.parak.khdb.common.Panic;
 import top.parak.khdb.server.dm.page.Page;
